@@ -1,5 +1,5 @@
 <!--- Project Title -->
-# 🚀 Awesome Python View Bot 🚀
+# 🚀 Awesome Python Twitch View Bot 🚀
 
 [![GitHub stars](https://img.shields.io/github/stars/shibakek2/twitch_view_bot.svg?style=social)](https://github.com/shibakek2/twitch_view_bot/stargazers)
 
